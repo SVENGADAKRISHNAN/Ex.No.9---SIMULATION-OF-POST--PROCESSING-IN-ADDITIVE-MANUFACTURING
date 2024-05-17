@@ -47,8 +47,10 @@
 
 ## Output:
 
-### Name:
-### Register Number:
+### Name: S.VENGADA KRISHNAN
+### Register Number: 212223110061
+![image](https://github.com/SVENGADAKRISHNAN/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/147473084/f1bded56-3860-4cb2-9ab7-aa8095d2a7a6)
+
 
 ## Result: 
 ### Thus the simulation on the Postprocessing in additive manufacturing is completed.
